@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">labs</string>
+    <string name="title">Bienvenido a mis labs</string>
+    <string name="subtitle">David Langarica | A01708936</string>
+    <string name="app1Title">Pokedex</string>
+    <string name="contentDescription">Pokemon</string>
+</resources>

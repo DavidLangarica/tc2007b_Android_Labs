@@ -27,4 +27,32 @@
         <item name="colorSurfaceInverse">@color/md_theme_dark_inverseSurface</item>
         <item name="colorPrimaryInverse">@color/md_theme_dark_inversePrimary</item>
     </style>
+    <style name="PokedexTheme" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/pokedex_dark_primary</item>
+        <item name="colorOnPrimary">@color/pokedex_dark_onPrimary</item>
+        <item name="colorPrimaryContainer">@color/pokedex_dark_primaryContainer</item>
+        <item name="colorOnPrimaryContainer">@color/pokedex_dark_onPrimaryContainer</item>
+        <item name="colorSecondary">@color/pokedex_dark_secondary</item>
+        <item name="colorOnSecondary">@color/pokedex_dark_onSecondary</item>
+        <item name="colorSecondaryContainer">@color/pokedex_dark_secondaryContainer</item>
+        <item name="colorOnSecondaryContainer">@color/pokedex_dark_onSecondaryContainer</item>
+        <item name="colorTertiary">@color/pokedex_dark_tertiary</item>
+        <item name="colorOnTertiary">@color/pokedex_dark_onTertiary</item>
+        <item name="colorTertiaryContainer">@color/pokedex_dark_tertiaryContainer</item>
+        <item name="colorOnTertiaryContainer">@color/pokedex_dark_onTertiaryContainer</item>
+        <item name="colorError">@color/pokedex_dark_error</item>
+        <item name="colorErrorContainer">@color/pokedex_dark_errorContainer</item>
+        <item name="colorOnError">@color/pokedex_dark_onError</item>
+        <item name="colorOnErrorContainer">@color/pokedex_dark_onErrorContainer</item>
+        <item name="android:colorBackground">@color/pokedex_dark_background</item>
+        <item name="colorOnBackground">@color/pokedex_dark_onBackground</item>
+        <item name="colorSurface">@color/pokedex_dark_surface</item>
+        <item name="colorOnSurface">@color/pokedex_dark_onSurface</item>
+        <item name="colorSurfaceVariant">@color/pokedex_dark_surfaceVariant</item>
+        <item name="colorOnSurfaceVariant">@color/pokedex_dark_onSurfaceVariant</item>
+        <item name="colorOutline">@color/pokedex_dark_outline</item>
+        <item name="colorOnSurfaceInverse">@color/pokedex_dark_inverseOnSurface</item>
+        <item name="colorSurfaceInverse">@color/pokedex_dark_inverseSurface</item>
+        <item name="colorPrimaryInverse">@color/pokedex_dark_inversePrimary</item>
+    </style>
 </resources>

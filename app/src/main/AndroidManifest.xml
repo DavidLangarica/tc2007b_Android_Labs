@@ -15,8 +15,15 @@
         android:theme="@style/AppTheme"
         tools:targetApi="31">
         <activity
-            android:name=".pokedex.framework.views.PokedexActivity"
-            android:exported="false" />
+            android:name=".pokedex.framework.views.activities.PokedexMainActivity"
+            android:exported="false"
+            android:theme="@style/PokedexTheme" />
+
+        <activity
+            android:name=".pokedex.framework.views.activities.SplashscreenActivity"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/PokedexTheme" />
 
         <activity
             android:name=".MenuActivity"

@@ -4,4 +4,6 @@
     <string name="subtitle">David Langarica | A01708936</string>
     <string name="app1Title">Pokedex</string>
     <string name="contentDescription">Pokemon</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_pokedex">Pokedex</string>
 </resources>

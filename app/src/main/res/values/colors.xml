@@ -1,4 +1,3 @@
-
 <resources>
     <color name="seed">#285fa3</color>
     <color name="md_theme_light_primary">#225FA6</color>
@@ -61,4 +60,67 @@
     <color name="md_theme_dark_surfaceTint">#A7C8FF</color>
     <color name="md_theme_dark_outlineVariant">#43474E</color>
     <color name="md_theme_dark_scrim">#000000</color>
+
+    <!--    Pokedex-->
+    <color name="pokedex_seed">#dc0a2d</color>
+    <color name="pokedex_primary">#BF0024</color>
+    <color name="pokedex_onPrimary">#FFFFFF</color>
+    <color name="pokedex_primaryContainer">#FFDAD8</color>
+    <color name="pokedex_onPrimaryContainer">#410006</color>
+    <color name="pokedex_secondary">#984703</color>
+    <color name="pokedex_onSecondary">#FFFFFF</color>
+    <color name="pokedex_secondaryContainer">#FFDBC8</color>
+    <color name="pokedex_onSecondaryContainer">#321300</color>
+    <color name="pokedex_tertiary">#7B5800</color>
+    <color name="pokedex_onTertiary">#FFFFFF</color>
+    <color name="pokedex_tertiaryContainer">#FFDEA5</color>
+    <color name="pokedex_onTertiaryContainer">#271900</color>
+    <color name="pokedex_error">#BA1A1A</color>
+    <color name="pokedex_errorContainer">#FFDAD6</color>
+    <color name="pokedex_onError">#FFFFFF</color>
+    <color name="pokedex_onErrorContainer">#410002</color>
+    <color name="pokedex_background">#FFFBFF</color>
+    <color name="pokedex_onBackground">#201A1A</color>
+    <color name="pokedex_surface">#FFFBFF</color>
+    <color name="pokedex_onSurface">#201A1A</color>
+    <color name="pokedex_surfaceVariant">#F4DDDC</color>
+    <color name="pokedex_onSurfaceVariant">#534342</color>
+    <color name="pokedex_outline">#857372</color>
+    <color name="pokedex_inverseOnSurface">#FBEEED</color>
+    <color name="pokedex_inverseSurface">#362F2E</color>
+    <color name="pokedex_inversePrimary">#FFB3B0</color>
+    <color name="pokedex_shadow">#000000</color>
+    <color name="pokedex_surfaceTint">#BF0024</color>
+    <color name="pokedex_outlineVariant">#D7C1C0</color>
+    <color name="pokedex_scrim">#000000</color>
+    <color name="pokedex_dark_primary">#FFB3B0</color>
+    <color name="pokedex_dark_onPrimary">#68000F</color>
+    <color name="pokedex_dark_primaryContainer">#930019</color>
+    <color name="pokedex_dark_onPrimaryContainer">#FFDAD8</color>
+    <color name="pokedex_dark_secondary">#FFB68B</color>
+    <color name="pokedex_dark_onSecondary">#522300</color>
+    <color name="pokedex_dark_secondaryContainer">#743400</color>
+    <color name="pokedex_dark_onSecondaryContainer">#FFDBC8</color>
+    <color name="pokedex_dark_tertiary">#F6BD48</color>
+    <color name="pokedex_dark_onTertiary">#412D00</color>
+    <color name="pokedex_dark_tertiaryContainer">#5D4200</color>
+    <color name="pokedex_dark_onTertiaryContainer">#FFDEA5</color>
+    <color name="pokedex_dark_error">#FFB4AB</color>
+    <color name="pokedex_dark_errorContainer">#93000A</color>
+    <color name="pokedex_dark_onError">#690005</color>
+    <color name="pokedex_dark_onErrorContainer">#FFDAD6</color>
+    <color name="pokedex_dark_background">#201A1A</color>
+    <color name="pokedex_dark_onBackground">#EDE0DE</color>
+    <color name="pokedex_dark_surface">#201A1A</color>
+    <color name="pokedex_dark_onSurface">#EDE0DE</color>
+    <color name="pokedex_dark_surfaceVariant">#534342</color>
+    <color name="pokedex_dark_onSurfaceVariant">#D7C1C0</color>
+    <color name="pokedex_dark_outline">#A08C8B</color>
+    <color name="pokedex_dark_inverseOnSurface">#201A1A</color>
+    <color name="pokedex_dark_inverseSurface">#EDE0DE</color>
+    <color name="pokedex_dark_inversePrimary">#BF0024</color>
+    <color name="pokedex_dark_shadow">#000000</color>
+    <color name="pokedex_dark_surfaceTint">#FFB3B0</color>
+    <color name="pokedex_dark_outlineVariant">#534342</color>
+    <color name="pokedex_dark_scrim">#000000</color>
 </resources>
